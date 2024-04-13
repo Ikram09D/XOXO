@@ -1,0 +1,10 @@
+
+*{  margin: 0;
+    padding: 0;  
+}
+body{
+    background: url(./src/assets/effet-background.svg) no-repeat;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+}
